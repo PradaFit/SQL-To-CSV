@@ -19,7 +19,7 @@ This tool is designed to easily and efficiently convert SQL files into CSV forma
 
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone https:
+    git clone https://github.com/PradaFit/SQL-To-CSV.git
     ```
 
 2. **Open the project**
