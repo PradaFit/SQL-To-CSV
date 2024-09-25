@@ -1,0 +1,15 @@
+C:\Users\Tiger\source\repos\SQLConverter\bin\Debug\SQLConverter.exe.config
+C:\Users\Tiger\source\repos\SQLConverter\bin\Debug\SQLConverter.exe
+C:\Users\Tiger\source\repos\SQLConverter\bin\Debug\SQLConverter.pdb
+C:\Users\Tiger\source\repos\SQLConverter\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Tiger\source\repos\SQLConverter\bin\Debug\cypher theme.dll
+C:\Users\Tiger\source\repos\SQLConverter\bin\Debug\DarkSky theme.dll
+C:\Users\Tiger\source\repos\SQLConverter\bin\Debug\theme.dll
+C:\Users\Tiger\source\repos\SQLConverter\obj\Debug\SQLConverter.csproj.AssemblyReference.cache
+C:\Users\Tiger\source\repos\SQLConverter\obj\Debug\SQLConverter.Form1.resources
+C:\Users\Tiger\source\repos\SQLConverter\obj\Debug\SQLConverter.Properties.Resources.resources
+C:\Users\Tiger\source\repos\SQLConverter\obj\Debug\SQLConverter.csproj.GenerateResource.cache
+C:\Users\Tiger\source\repos\SQLConverter\obj\Debug\SQLConverter.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\source\repos\SQLConverter\obj\Debug\SQLConve.0066BC18.Up2Date
+C:\Users\Tiger\source\repos\SQLConverter\obj\Debug\SQLConverter.exe
+C:\Users\Tiger\source\repos\SQLConverter\obj\Debug\SQLConverter.pdb
